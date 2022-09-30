@@ -16,5 +16,4 @@ I'm studying analysis and systems development. I'm also an social scientist ;)
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
-   ![Snake animation](https://github.com/daphnecordeiro/daphnecordeiro/blob/output/github-contribution-grid-snake.svg)
 
